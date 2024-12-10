@@ -1,5 +1,5 @@
 ---
-title: "Blog Post 3"
+title: "AI-Powered QA: Redefining Quality in a Competitive Landscape"
 date: 2021-12-18T11:10:36+08:00
 draft: false
 language: en

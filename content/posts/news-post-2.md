@@ -1,12 +1,12 @@
 ---
-title: "News Post 2"
+title: "AI-Powered QA: Redefining Quality in a Competitive Landscape"
 date: 2022-04-18T11:10:36+08:00
 draft: false
 language: en
 featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
-author: TailBliss
+summary: Explore how artificial intelligence transforms quality assurance, enhancing accuracy, speed, and adaptability in ever-changing market conditions.
+description: Explore how artificial intelligence transforms quality assurance, enhancing accuracy, speed, and adaptability in ever-changing market conditions.
+author: David Dango
 authorimage: ../assets/images/global/author.webp
 categories: News
 tags: News
